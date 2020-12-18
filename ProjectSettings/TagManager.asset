@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PLANE
+  - SIDE1
+  - SIDE2
+  - SIDE3
+  - SIDE4
+  - SIDE5
+  - SIDE6
+  - CUP
+  - SIDE2-1
+  - SIDE2-2
+  - SIDE2-3
+  - SIDE2-4
+  - SIDE2-5
+  - SIDE2-6
+  - SIDE3-1
+  - SIDE3-2
+  - SIDE3-3
+  - SIDE3-4
+  - SIDE3-5
+  - SIDE3-6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
